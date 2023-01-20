@@ -1,4 +1,4 @@
-# Carbonable Labs Factory
+# Carbonable Labs
 ## Explore and push the frontiers of Blockchain based technology to imagine the future of REFI
 
 ![image](https://user-images.githubusercontent.com/25151724/210826963-76e3c09b-135b-4936-aa1b-d754879647d5.png)
